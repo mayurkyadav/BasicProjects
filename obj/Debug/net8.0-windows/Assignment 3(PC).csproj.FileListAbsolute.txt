@@ -1,0 +1,32 @@
+C:\Users\mayur\Desktop\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).exe
+C:\Users\mayur\Desktop\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).deps.json
+C:\Users\mayur\Desktop\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).runtimeconfig.json
+C:\Users\mayur\Desktop\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).pdb
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment_3_PC_.Form1.resources
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).csproj.GenerateResource.cache
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).AssemblyInfo.cs
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\refint\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).pdb
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).genruntimeconfig.cache
+C:\Users\mayur\Desktop\Assignment 3(PC)\obj\Debug\net8.0-windows\ref\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).exe
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).deps.json
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).runtimeconfig.json
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\bin\Debug\net8.0-windows\Assignment 3(PC).pdb
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment_3_PC_.Form1.resources
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).csproj.GenerateResource.cache
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).AssemblyInfo.cs
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\refint\Assignment 3(PC).dll
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).pdb
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\Assignment 3(PC).genruntimeconfig.cache
+C:\Users\mayur\Desktop\Assignment 3(PC 2)\Assignment 3(PC)\obj\Debug\net8.0-windows\ref\Assignment 3(PC).dll

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|c:\\users\\mayur\\desktop\\assignment 3(pc 2)\\assignment 3(pc)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C42514-A8F3-401A-BFEA-B3946E6D2F2C}|Assignment 3(PC).csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAuwNYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:46:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClinicalNote.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\ClinicalNote.cs",
+              "RelativeDocumentMoniker": "ClinicalNote.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\ClinicalNote.cs",
+              "RelativeToolTip": "ClinicalNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:59:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:30:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\ValidationHelper.cs",
+              "RelativeToolTip": "ValidationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:55:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileIO.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\FileIO.cs",
+              "RelativeDocumentMoniker": "FileIO.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\FileIO.cs",
+              "RelativeToolTip": "FileIO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:56:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:24:55.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\Assignment 3(PC 2)\\Assignment 3(PC)\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAEBVwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:45:01.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

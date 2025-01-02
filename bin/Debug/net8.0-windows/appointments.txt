@@ -1,0 +1,12 @@
+Alex|45|Cancer|2024-04-25|BP: 90/9 mmHg (Low);RR: 9 bpm (Low);T: 9 °C (Low)|Need to Focus on Diet;Bp:90/09;t:09;rr:09
+
+Tony|2|Migraine|2024-04-07|BP: 87/56 mmHg (Low);HR: 67 bpm ();RR: 45 bpm (High);T: 78 °C (High)|Can improve but need to focus on yoga;BP:87/56;rr:45;HR:67;T:78
+
+james|45|ColdFever|2024-04-25|BP: 9/9 mmHg (Low);RR: 89 bpm (High)|It will be fine soon but avoid getting outside;Bp:09/09;rr:89
+
+John|4|Cancer|2024-04-25|Alex;Tony;james|Last stage;bp:90/98
+
+Yash|5|Cold|2024-04-07|T: 96 °C (High)|T:96
+
+Pragnesh|6|Cancer|2024-04-07|BP: 78/65 mmHg (Low)|Need to focus on health;bp:78/65
+
